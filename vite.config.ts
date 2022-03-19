@@ -14,7 +14,6 @@ export default defineConfig({
     AutoImport({
       imports: [
         'react',
-        'vitest',
       ],
       dts: true,
     }),
