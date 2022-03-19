@@ -1,11 +1,11 @@
-function App() {
-  const [count, setCount] = useState(0)
+import { RecoilRoot } from 'recoil'
+import { TodoList } from './components/TodoList'
 
+const App = () => {
   return (
-    <div onClick={() => setCount(count + 1)} className="w-screen h-screen text-20 text-red-300 flex justify-center items-center">
-      <text className="text-[50px] select-none" >Day {count}</text>
-    </div>
+    <RecoilRoot>
+      <TodoList />
+    </RecoilRoot>
   )
 }
-
 export default App

@@ -38,3 +38,6 @@ degit teefing/vite-react-lite your-app-name
 
 ### AutoImport
 - unplugin-auto-import
+
+### PWA
+
