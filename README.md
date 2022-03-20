@@ -11,6 +11,8 @@ degit teefing/vite-react-lite your-app-name
 - Vite
 - React - Typscript
 - pnpm
+- React Router
+- Recoil
 
 ### Git Hooks
 
@@ -36,8 +38,16 @@ degit teefing/vite-react-lite your-app-name
 
 - TailwindCSS v3
 
+### Route
+
+- React Router V6
+
+### State Management
+
+- Recoil
+
 ### AutoImport
 - unplugin-auto-import
 
-### PWA
+### PWA Intergration
 
