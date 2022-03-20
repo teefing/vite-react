@@ -56,3 +56,7 @@ degit teefing/vite-react-lite your-app-name
 
 ### PWA Intergration
 
+
+### Deploy
+
+- Deploy on Netlify, zero-config
