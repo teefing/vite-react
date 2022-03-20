@@ -11,7 +11,8 @@
     "lint": "eslint .",
     "prepare": "husky install",
     "commit": "git add . && git-cz",
-    "cm": "pnpm commit"
+    "cm": "pnpm commit",
+    "cp": "pnpm commit && git push"
   },
   "config": {
     "commitizen": {
